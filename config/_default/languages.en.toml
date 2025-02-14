@@ -13,7 +13,7 @@ copyright = "Ahmed Aboelnaga"
    description = "Personal portfolio website of Ahmed aboelnaga"
 
 [params.author]
-   name = "Ahmed aboelnaga"
+   name = "Ahmed Aboelnaga"
    image = "img/profile.jpg"
    headline = "Aspiring AI/ML Engineer | Passionate About Software Development & Problem-Solving"
    bio = "I'm Ahmed, a computer science student specializing in AI with skills in Python, machine learning, data analysis, statistics, and algorithms. I’m passionate about building AI-driven solutions and continuously improving my expertise in data science and ML. 🚀"
