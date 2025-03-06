@@ -1,11 +1,9 @@
 ---
-title: "About"
+title: "Who I Am"
 layout: "single"
 showTableOfContents: true
 toc: true  # Enables right sidebar navigation
 ---
-# **Who I Am**
-
 I'm a data scientist and machine learning engineer passionate about building intelligent solutions that transform data into actionable insights. With expertise in **machine learning, NLP, and MLOps**, I specialize in creating scalable, production-ready AI systems.
 
 I enjoy working on **end-to-end ML projects**, from **data preprocessing** to **model deployment**, leveraging cloud platforms and best software engineering practices.
