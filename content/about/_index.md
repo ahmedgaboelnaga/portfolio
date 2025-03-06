@@ -1,9 +1,9 @@
 ---
 title: "About"
 layout: "single"
+showTableOfContents: true
 toc: true  # Enables right sidebar navigation
 ---
-
 # **Who I Am**
 
 I'm a data scientist and machine learning engineer passionate about building intelligent solutions that transform data into actionable insights. With expertise in **machine learning, NLP, and MLOps**, I specialize in creating scalable, production-ready AI systems.
@@ -11,6 +11,7 @@ I'm a data scientist and machine learning engineer passionate about building int
 I enjoy working on **end-to-end ML projects**, from **data preprocessing** to **model deployment**, leveraging cloud platforms and best software engineering practices.
 
 ---
+
 ## **Tech Stack**
 
 #### **Programming & Software Engineering**
@@ -35,6 +36,7 @@ Power BI | Tableau | Matplotlib | Seaborn
 - Familiar: AWS (S3, EC2, ECS) | Kubernetes | MLflow
 
 ---
+
 ## **Experience**
 
 #### **AI & Data Science - Microsoft Machine Learning Engineer**
@@ -52,6 +54,7 @@ Power BI | Tableau | Matplotlib | Seaborn
 - Recognized on the Honor Board for outstanding technical proficiency.
 
 ---
+
 ## **Education & Certifications**
 
 - **B.Sc. in Computer Science (AI Specialization)** – Egyptian Russian University (2022 - 2026)
@@ -59,5 +62,3 @@ Power BI | Tableau | Matplotlib | Seaborn
 - **HCIA-AI V3.5 Course** – Huawei
 - **Python for Data Analytics** – Luke Barousse
 - **Mathematics for Machine Learning** – Coursera
-
-

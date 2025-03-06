@@ -6,8 +6,8 @@ showReadingTime: false
 showTableOfContents: false
 showComments: false
 ---
+I build scalable AI solutions that solve real-world business problems. My expertise includes predictive analytics, computer vision, and AI-driven insights using Python, TensorFlow, XGBoost, and OpenCV.
 
+I specialize in end-to-end machine learning, from data preprocessing and model training to deployment and optimization. My focus is on developing production-ready, efficient, and impactful AI systems.
 
-I'm Ahmed Aboelnaga, a Data Scientist & Machine Learning Engineer with a strong foundation in AI, data analysis, and software development. Currently pursuing a B.Sc. in Computer Science (AI Specialization) at [Egyptian Russian University](https://eru.edu.eg/), I am passionate about solving real-world problems using machine learning and AI-driven solutions.
-
-<!-- In my spare time, I work on AI and data science projects, continuously upskill through various courses and certifications, and contribute to the tech community through learning and mentorship. -->
+Let’s connect to explore how machine learning can add value to your projects!
